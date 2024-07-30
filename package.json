@@ -1,0 +1,21 @@
+{
+  "name": "01_basic_program",
+  "version": "1.0.0",
+  "description": "This is my learning project",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sureshkunkatla/01_basic_program.git"
+  },
+  "author": "suresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sureshkunkatla/01_basic_program/issues"
+  },
+  "homepage": "https://github.com/sureshkunkatla/01_basic_program#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
